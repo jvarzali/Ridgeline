@@ -1,0 +1,20 @@
+# deps / builds
+node_modules/
+.next/
+dist/
+__pycache__/
+.venv/
+*.pyc
+
+# secrets — never commit
+.env
+.env.*
+!.env.example
+
+# raw elevation data — large, re-downloadable
+data/
+*.tif
+
+# OS / editor
+.DS_Store
+.vscode/
