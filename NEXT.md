@@ -1,1 +1,1 @@
-Next: 0.2 — scaffold Next.js in apps/web (strict TS, Tailwind, Vitest), get one trivial test passing.
+Next: 0.3 — Python package in pipeline/ (pyproject, rasterio, numpy, pytest), one trivial test passing.
