@@ -1,1 +1,1 @@
-Next: 0.3 — Python package in pipeline/ (pyproject, rasterio, numpy, pytest), one trivial test passing.
+Next: 0.4 — GitHub Actions workflow running Vitest (apps/web) and pytest (pipeline).
